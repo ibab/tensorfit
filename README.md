@@ -2,6 +2,8 @@
 
 # TensorProb
 
+[![Join the chat at https://gitter.im/tensorprob/tensorprob](https://badges.gitter.im/tensorprob/tensorprob.svg)](https://gitter.im/tensorprob/tensorprob?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://img.shields.io/travis/tensorprob/tensorprob/master.svg)](https://travis-ci.org/tensorprob/tensorprob)
 [![Coverage Status](https://img.shields.io/coveralls/tensorprob/tensorprob/master.svg)](https://coveralls.io/github/tensorprob/tensorprob?branch=master)
 [![Documentation](https://img.shields.io/badge/documentation-link-blue.svg)](https://tensorprob.github.io/tensorprob)
